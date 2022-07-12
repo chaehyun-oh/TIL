@@ -11,7 +11,7 @@
 | [7/9 토](markdown/Vue.js.md) | Vue.js 정리 |
 | [7/10 일](markdown/w1-summary.md) | 1주차 요약 |
 | [7/11 월](markdown/220711.md) | Python 기초 (기초 문법, 자료형, 형 변환, 컨테이너) |
-|                             |                            |
+| [7/12 화](markdown/220712.md) | Python 제어문 (제어문, 조건문, 반복문) |
 |                             |                            |
 |                             |                            |
 |                             |                            |
