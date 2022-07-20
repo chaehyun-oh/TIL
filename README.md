@@ -16,6 +16,6 @@
 | [7/16 토](markdown/w2-summary.md) |                     2주차 요약                     |
 |   [7/18 월](markdown/220718.md)   |                Python 에러/예외처리                |
 |   [7/19 화](markdown/220719.md)   |             객체 지향 프로그래밍(OOP)              |
-|                                   |                                                    |
+|   [7/20 수](markdown/220720.md)   |            객체 지향 프로그래밍(OOP) -2            |
 |                                   |                                                    |
 |                                   |                                                    |
