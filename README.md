@@ -25,5 +25,5 @@
 |   [7/27 수](markdown/220727.md)   |                알고리즘 3 (문자열)                 |
 |   [7/28 목](markdown/220728.md)   |               알고리즘 4 (딕셔너리)                |
 |   [7/29 금](markdown/220729.md)   |               특강 - 코딩테스트 준비               |
-| [7/24 일](markdown/w4-summary.md) |                     4주차 요약                     |
+| [7/30 토](markdown/w4-summary.md) |                     4주차 요약                     |
 |                                   |                                                    |
