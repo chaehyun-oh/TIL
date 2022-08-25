@@ -60,3 +60,4 @@
 |   [8/22 월](markdown/220822.md)   |        데이터베이스 5 (Join)         |
 |   [8/23 화](markdown/220823.md)   |      데이터베이스 6 (DB 모델링)      |
 |   [8/24 수](markdown/220824.md)   |         데이터베이스 7 (ORM)         |
+|   [8/25 목](markdown/220825.md)   |    데이터베이스 8 (QuerySet API)     |
