@@ -75,4 +75,5 @@
 |   [9/1 목](markdown/220901.md)    |      Web 4 (시맨틱 태그)       |
 | [9/3 토](markdown/w9-summary.md)  |           9주차 요약           |
 | [9/4 일](markdown/htmlsummary.md) |           HTML 정리            |
-|   [9/5 월](markdown/220905.md)    | Web 5 (Tabel, Form, Bootstrap) |
+|   [9/5 월](markdown/220905.md)    | Web 5 (Table, Form, Bootstrap) |
+|   [9/6 화](markdown/220906.md)    |  Web 6 (Bootstrap Components)  |
