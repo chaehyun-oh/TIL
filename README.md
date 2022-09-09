@@ -65,7 +65,7 @@
 
 ---
 
-## DB
+## WEB
 
 |               날짜                |              내용              |
 | :-------------------------------: | :----------------------------: |
@@ -79,3 +79,4 @@
 |   [9/6 화](markdown/220906.md)    |  Web 6 (Bootstrap Components)  |
 |   [9/7 수](markdown/220907.md)    | Web 7 (Bootstrap Grid system)  |
 | [9/8 목](markdown/w10-summary.md) |          10주차 요약           |
+| [9/9 금](markdown/csssummary.md)  |            CSS 정리            |
