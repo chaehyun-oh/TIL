@@ -80,3 +80,4 @@
 |   [9/7 수](markdown/220907.md)    | Web 7 (Bootstrap Grid system)  |
 | [9/8 목](markdown/w10-summary.md) |          10주차 요약           |
 | [9/9 금](markdown/csssummary.md)  |            CSS 정리            |
+| [9/10 토](markdown/jssummary.md)  |        JavaScript 정리         |
