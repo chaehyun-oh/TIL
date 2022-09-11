@@ -67,17 +67,18 @@
 
 ## WEB
 
-|               날짜                |              내용              |
-| :-------------------------------: | :----------------------------: |
-|   [8/29 월](markdown/220829.md)   |     Web 1 (HTML, CSS 기초)     |
-|   [8/30 화](markdown/220830.md)   |    Web 2 (CSS 기본 스타일)     |
-|   [8/31 수](markdown/220831.md)   |  Web 3 (CSS Position, Layout)  |
-|   [9/1 목](markdown/220901.md)    |      Web 4 (시맨틱 태그)       |
-| [9/3 토](markdown/w9-summary.md)  |           9주차 요약           |
-| [9/4 일](markdown/htmlsummary.md) |           HTML 정리            |
-|   [9/5 월](markdown/220905.md)    | Web 5 (Table, Form, Bootstrap) |
-|   [9/6 화](markdown/220906.md)    |  Web 6 (Bootstrap Components)  |
-|   [9/7 수](markdown/220907.md)    | Web 7 (Bootstrap Grid system)  |
-| [9/8 목](markdown/w10-summary.md) |          10주차 요약           |
-| [9/9 금](markdown/csssummary.md)  |            CSS 정리            |
-| [9/10 토](markdown/jssummary.md)  |        JavaScript 정리         |
+|                 날짜                 |              내용              |
+| :----------------------------------: | :----------------------------: |
+|    [8/29 월](markdown/220829.md)     |     Web 1 (HTML, CSS 기초)     |
+|    [8/30 화](markdown/220830.md)     |    Web 2 (CSS 기본 스타일)     |
+|    [8/31 수](markdown/220831.md)     |  Web 3 (CSS Position, Layout)  |
+|     [9/1 목](markdown/220901.md)     |      Web 4 (시맨틱 태그)       |
+|   [9/3 토](markdown/w9-summary.md)   |           9주차 요약           |
+|  [9/4 일](markdown/htmlsummary.md)   |           HTML 정리            |
+|     [9/5 월](markdown/220905.md)     | Web 5 (Table, Form, Bootstrap) |
+|     [9/6 화](markdown/220906.md)     |  Web 6 (Bootstrap Components)  |
+|     [9/7 수](markdown/220907.md)     | Web 7 (Bootstrap Grid system)  |
+|  [9/8 목](markdown/w10-summary.md)   |          10주차 요약           |
+|   [9/9 금](markdown/csssummary.md)   |            CSS 정리            |
+|   [9/10 토](markdown/jssummary.md)   |        JavaScript 정리         |
+| [9/11 일](markdown/jquerysummary.md) |          J-Query 정리          |
