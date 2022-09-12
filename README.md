@@ -82,3 +82,4 @@
 |   [9/9 금](markdown/csssummary.md)   |            CSS 정리            |
 |   [9/10 토](markdown/jssummary.md)   |        JavaScript 정리         |
 | [9/11 일](markdown/jquerysummary.md) |          J-Query 정리          |
+|  [9/12 월](markdown/jssummary2.md)   |       JavaScript 정리 2        |
