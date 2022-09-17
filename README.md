@@ -83,5 +83,6 @@
 |   [9/10 토](markdown/jssummary.md)   |        JavaScript 정리         |
 | [9/11 일](markdown/jquerysummary.md) |          J-Query 정리          |
 |  [9/12 월](markdown/jssummary2.md)   |       JavaScript 정리 2        |
-|    [9/15 목](markdown/220915.md)     |       Web 8 (JavaScript)       |
-|    [9/16 금](markdown/220916.md)     |       Web 9 (JavaScript)       |
+|    [9/15 목](markdown/220915.md)     |      Web 8 (JavaScript 1)      |
+|    [9/16 금](markdown/220916.md)     |      Web 9 (JavaScript 2)      |
+|  [9/17 토](markdown/w11-summary.md)  |          11주차 요약           |
