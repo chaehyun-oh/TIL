@@ -87,3 +87,11 @@
 |    [9/16 금](markdown/220916.md)     |      Web 9 (JavaScript 2)      |
 |  [9/17 토](markdown/w11-summary.md)  |          11주차 요약           |
 |    [9/19 월](markdown/220919.md)     |     Web 10 (JavaScript 3)      |
+
+---
+
+## Django
+
+|             날짜              |            내용            |
+| :---------------------------: | :------------------------: |
+| [9/21 수](markdown/220921.md) | Django 1 (Django 시작하기) |
