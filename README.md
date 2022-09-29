@@ -99,4 +99,5 @@
 | [9/23 토](markdown/w12-summary.md) |                      12주차 요약                      |
 |   [9/26 월](markdown/220926.md)    |       Django 3 (Django 데이터 보내고 가져오기)        |
 |   [9/27 화](markdown/220927.md)    | Django 4 (Django App URL mapping, Template namespace) |
-|   [9/28 수](markdown/220928.md)    |          Django 4 (Django Namespace, Model )          |
+|   [9/28 수](markdown/220928.md)    |          Django 5 (Django Namespace, Model )          |
+|   [9/29 목](markdown/220929.md)    |                  Django 6 ( Update )                  |
