@@ -103,3 +103,4 @@
 |   [9/29 목](markdown/220929.md)    |                  Django 6 ( Update )                  |
 | [10/1 토](markdown/w13-summary.md) |                      13주차 요약                      |
 |   [10/4 화](markdown/221004.md)    |             Django 7 ( Django ModelForm )             |
+|   [10/5 수](markdown/221005.md)    |      Django 8 ( Django Admin site, Static files)      |
