@@ -104,3 +104,4 @@
 | [10/1 토](markdown/w13-summary.md) |                      13주차 요약                      |
 |   [10/4 화](markdown/221004.md)    |             Django 7 ( Django ModelForm )             |
 |   [10/5 수](markdown/221005.md)    |      Django 8 ( Django Admin site, Static files)      |
+|   [10/6 목](markdown/221006.md)    |          Django 8-2 ( Django 템플릿 분기점)           |
