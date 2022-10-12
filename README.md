@@ -107,3 +107,4 @@
 |   [10/6 목](markdown/221006.md)    |          Django 8-2 ( Django 템플릿 분기점)           |
 | [10/8 토](markdown/w14-summary.md) |                      14주차 요약                      |
 |   [10/11 화](markdown/221011.md)   |        Django 9 ( Django Auth, 회원가입 기능)         |
+|   [10/12 수](markdown/221012.md)   |        Django 10 ( Django login, logout 기능)         |
