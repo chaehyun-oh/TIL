@@ -108,3 +108,4 @@
 | [10/8 토](markdown/w14-summary.md) |                      14주차 요약                      |
 |   [10/11 화](markdown/221011.md)   |        Django 9 ( Django Auth, 회원가입 기능)         |
 |   [10/12 수](markdown/221012.md)   |        Django 10 ( Django login, logout 기능)         |
+|   [10/13 목](markdown/221013.md)   |   Django 10 ( Django 회원정보 수정, 비밀번호 변경 )   |
