@@ -111,3 +111,4 @@
 |   [10/13 목](markdown/221013.md)    |     Django 11 ( Django 회원정보 수정, 비밀번호 변경 )     |
 | [10/16 일](markdown/w15-summary.md) |                        15주차 요약                        |
 |   [10/17 월](markdown/221017.md)    | Django 12 ( Django 이미지 업로드, Resizing, 메세지 추가 ) |
+|   [10/18 화](markdown/221018.md)    |          Django 13 ( Django 게시글 - 댓글 기능 )          |
