@@ -113,3 +113,4 @@
 |   [10/17 월](markdown/221017.md)    | Django 12 ( Django 이미지 업로드, Resizing, 메세지 추가 ) |
 |   [10/18 화](markdown/221018.md)    |          Django 13 ( Django 게시글 - 댓글 기능 )          |
 |   [10/19 수](markdown/221019.md)    |          Django 14 ( Django 1:N User-Comments )           |
+| [10/22 토](markdown/w16-summary.md) |                        16주차 요약                        |
