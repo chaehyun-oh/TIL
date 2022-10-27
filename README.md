@@ -117,3 +117,4 @@
 |   [10/24 월](markdown/221024.md)    |         Django 15 ( Django M:N / user - article )         |
 |   [10/25 화](markdown/221025.md)    |           Django 16 ( Django M:N / user - user)           |
 |   [10/26 수](markdown/221026.md)    |                  Django 16 ( JS 비동기 )                  |
+|   [10/27 목](markdown/221027.md)    |                 Django 17 ( JS 비동기2 )                  |
