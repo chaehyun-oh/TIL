@@ -284,27 +284,27 @@ _div 태그와는 다름_
 
 인라인 태그
 
-<form> : 폼 전체를 감싸는 태그
+`<form>` : 폼 전체를 감싸는 태그
 
-<fieldset>, <legend> : 접근성 측면/폼 요소를 그룹으로 묶고 제목을 붙이는 태그
+`<fieldset>`, `<legend>` : 접근성 측면/폼 요소를 그룹으로 묶고 제목을 붙이는 태그
 
-<label> : 접근성 측면/ 폼 요소에 캡션을 부르는태그/넣고 가리기
+`<label>` : 접근성 측면/ 폼 요소에 캡션을 부르는태그/넣고 가리기
 
-<input> : 사용자가 입력할 수있는 태그(한 줄 입력)
+`<input>` : 사용자가 입력할 수있는 태그(한 줄 입력)
 
-<select>, <option> : 드롭다운 목록을 넣는 태그
+`<select>`, `<option>` : 드롭다운 목록을 넣는 태그
 
-<textarea> : 여러 줄의 텍스트를입력하는 텍스트영역을 넣는 태그
+`<textarea>` : 여러 줄의 텍스트를입력하는 텍스트영역을 넣는 태그
 
-<button> : 버튼을 넣는 태그
+`<button>` : 버튼을 넣는 태그
 
-<form action=””>폼태그 </form>
+`<form action=””>폼태그 </form>`
 
 action: get/post 방식 중 하나 > 근데 이건 백엔드라서 상관 무 / 비워두거나 #로 연결해두기
 
 폼서식
 
-<input type=””>
+`<input type=””>`
 
 : 아이디나 검색어를 입력하는 텍스트 박스나 로그인 버튼 처럼 다양한 폼 서식을 마크업 할 때 사용
 
@@ -314,7 +314,7 @@ html5에서 새로운 유형의 폼요소가 많이 생성되었지만 주로 �
 
 input태그에서 type 속성에 따라 폼의 종류가 결정된다.
 
-<input type=”폼 유형” 속성-”속성값”>
+`<input type=”폼 유형” 속성-”속성값”>`
 
 type=”text”
 
@@ -459,19 +459,16 @@ readonly: 읽게만 할 수 있음
 
 label, input이 서로 떨어져 있어도 이름이 같으면 연결함
 
-<fieldset> 블록태그
+`<fieldset>` 블록태그
 
 하나의 폼 안에서 여러 구역을 나눠 표시할 때 사용
 
 태그 사이의 폼들을 하나의 영역으로 묶고 외곽선을 그려준다 (보더 생성)
 
-<legend>
+`<legend>`
 
 이름 지정하고 묶는 방식
-
-fieldset으로
-
-폼버튼
+fieldset으로 폼버튼
 
 type=”submit”
 
@@ -484,8 +481,6 @@ type=”reset”
 type=”button”
 
 자바스크립트 실행을 위한 용도
-
-<button> </button>
 
 # 그룹핑(Grouping)
 
@@ -604,7 +599,7 @@ header, id : id로 지정해서 header로 연결해서 읽어줌 (복잡한 테�
 
 # 파비콘
 
-<link rel=”shortcut icon” href=”경로”>
+`<link rel=”shortcut icon” href=”경로”>`
 
 # 인클루드
 
@@ -664,7 +659,7 @@ $("#footer").load("common/footer.html"); //푸터부분 인클루드
 지를 방문하게 되면 레이아웃이 깨지거나 작동하지 않을 때가 있다. 그래서 meta태그를 사용
 해서 렌더링 엔진을 선택하게 하거나, 최신 렌더링 모드로 강제로 작동하게 만들어야 한다
 
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+`<meta http-equiv="X-UA-Compatible" content="IE=edge" />`
 
 # 메타태그
 
@@ -672,25 +667,25 @@ HTML 문서의 맨 위쪽에 위치하는 태크. HEAD 태그 사이 또는 뒤�
 치해야 한다. 브라우저와 검색 엔진을 사용할 수 있도록 문서의 정보를 포함하고 있다.
 출처 TTA정보통신용어사전
 
-<meta name="author" content="사이트 저자"/>
-<meta name="subject" content="사이트 목적(주제)"/>
-<meta name="copyright" content="사이트 저작권(소유권)"/>
-<meta name="content-language" content="ko"/>
-<meta name="viewport" content="width=device-width"/>
-<meta name="description" content="사이트 설명(최대 160자 추천)"/>
-<meta name="keywords" content="사이트 키워드"/>
-<meta name="robots" content="ALL"/>
-<meta name="robots" content="index,follow" />
+`<meta name="author" content="사이트 저자"/>`
+`<meta name="subject" content="사이트 목적(주제)"/>`
+`<meta name="copyright" content="사이트 저작권(소유권)"/>`
+`<meta name="content-language" content="ko"/>`
+`<meta name="viewport" content="width=device-width"/>`
+`<meta name="description" content="사이트 설명(최대 160자 추천)"/>`
+`<meta name="keywords" content="사이트 키워드"/>`
+`<meta name="robots" content="ALL"/>`
+`<meta name="robots" content="index,follow" />`
 : 이 문서도 긁어가고 링크된 문서도 긁어감.
-<meta name="robots" content="noindex,follow" />
+`<meta name="robots" content="noindex,follow" />`
 : 이 문서는 긁어가지 말고 링크된 문서만 긁어감.
-<meta name="robots" content="index,nofollow" />
+`<meta name="robots" content="index,nofollow" />`
 : 이 문서는 긁어가되, 링크는 무시함.
-<meta name="robots" content="noindex,nofollow" />
+`<meta name="robots" content="noindex,nofollow" />`
 : 이 문서도 긁지 않고, 링크도 무시함.
 
 검색엔진에게 정보를 전달할 뿐만 아니라, 웹 브라우저에게도 정보를 전달하는 역할을 한다.
 
-<meta http-equiv="refresh" content="5;url=http://www.naver.com/">
+`<meta http-equiv="refresh" content="5;url=http://www.naver.com/">`
 
 : 사이트 주소가 변경되었을때 유저가 방문하면 변경된 주소로 이동하도록
